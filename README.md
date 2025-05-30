@@ -127,7 +127,7 @@ dev = [
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/yourusername/RAG_Legal_assistant.git
+   git clone [https://github.com/yourusername/RAG_Legal_assistant.git](https://github.com/SergeyKarpenko1/RAG_Legal_assistant)
    cd RAG_Legal_assistant
    ```
 

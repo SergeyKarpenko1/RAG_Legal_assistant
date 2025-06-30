@@ -85,7 +85,7 @@ RAG_Legal_asist/
 ### Шаги по установке
 1. Клонировать репозиторий:
    ```bash
-   git clone [[URL репозитория]](https://github.com/SergeyKarpenko1/RAG_Legal_assistant)
+   git clone (https://github.com/SergeyKarpenko1/RAG_Legal_assistant)
    cd RAG_Legal_assistant
    ```
 
